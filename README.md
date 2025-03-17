@@ -8,7 +8,7 @@ The project uses the "shawhin/phishing-site-classification" dataset from Hugging
 
 ## Model
 
-The model used is "answerdotai/ModernBERT-base" which is a pre-trained BERT-based model. It is fine-tuned on the phishing site classification dataset to improve its performance on this specific task.
+ModernBERT is a modernized bidirectional encoder-only Transformer model (BERT-style) pre-trained on 2 trillion tokens of English and code data with a native context length of up to 8,192 tokens.
 
 ## Fine-tuning
 
